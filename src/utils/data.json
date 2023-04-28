@@ -1,0 +1,14 @@
+[
+    {
+        "name": "james",
+        "surname": "bond",
+        "type": "agent",
+        "number": "007"
+    },
+    {
+        "name": "mad",
+        "surname": "max",
+        "type": "rebel",
+        "number": "123"
+    }
+]
