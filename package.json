@@ -1,0 +1,25 @@
+{
+  "name": "nodeapi-basic",
+  "version": "1.0.0",
+  "description": "this is a basic node project that shows endpoints as an REST API ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mrHann69/nodeapi-www.git"
+  },
+  "keywords": [
+    "nodejs",
+    "api",
+    "restapi",
+    "endpoint"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrHann69/nodeapi-www/issues"
+  },
+  "homepage": "https://github.com/mrHann69/nodeapi-www#readme"
+}
